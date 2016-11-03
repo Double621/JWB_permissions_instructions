@@ -1,0 +1,89 @@
+/*教务宝权限说明CSS*/
+
+span
+{
+	font-weight: bold;
+}
+
+.permissions
+{
+	color: #8ca4ae;
+	line-height: 1.6em;
+}/*line-height单位em*/
+
+*
+{
+	font-family:"Helvetica Neue",Helvetica,STHeiTi,sans-serif;
+}
+
+.content>ul
+{
+	margin: 0 auto;
+}
+
+.header
+{
+	margin:0.2rem 0.3rem;
+}
+
+.header,.theader
+{
+	font-size: 0.3rem;
+}
+
+.permissions
+{
+	font-size: 0.28rem;
+}
+
+td
+{
+	font-size: 0.28rem;
+	padding:0.15rem;
+	border-bottom: 0.01rem solid #d0dadd;
+}/*表格内容的字体大小以及下边框*/
+
+.project
+{
+	text-align: left;
+	vertical-align: middle;
+} /*vertical-align:垂直居中*/
+
+.yes
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.no
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.yes>img 
+{
+	height: 0.2rem;
+	width: 0.28rem;
+}/*"yes"类图片的宽高*/
+
+.no>img
+{
+	height: 0.05rem;
+	width: 0.2rem;
+}/*"no"类图片的宽高*/
+.tableshow{
+	width: 92%;
+	margin:0 auto;
+}
+table
+{
+	border-collapse: collapse;
+	width:100%;
+}
+
+th
+{
+	border-bottom: 0.03rem solid #67c89b;
+	padding: 0.2rem 0.4rem;
+}
